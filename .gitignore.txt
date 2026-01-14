@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Google API credentials
+credentials.json
+token.json
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
